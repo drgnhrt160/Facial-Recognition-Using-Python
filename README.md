@@ -1,4 +1,4 @@
-# Facial-Recognition-Using-Python
+# Facial-Recognition-Using-Python/OpenCV
 
 This project is a simple python program that can be used for facial recognition. It uses a Haar Cascade classifier to detect whether a face is present in the provided picture or not. Once a face is detected, the program uses LBPH.
 
